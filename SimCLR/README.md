@@ -15,5 +15,18 @@
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/random_jigsaw.jpg" class="center" alt = "gamma" height="65" width ="50" /> &nbsp;
 - SimCLR_DCL_Jigsaw.ipynb: Contains modifications related to using [DCL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf) based jigsaw shufflling augmentation and Grad-CAM visualization
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/dcl_jigsaw.jpg" class="center" alt = "gamma" width ="50" /> &nbsp;
-- SimCLR_Cropped_regions.ipynb: Contains modifications related to  smartcropping of fine grained regions and Grad-CAM visualization
+- SimCLR_Cropped_regions.ipynb: Contains modifications related to localizing fine grained region [Smartcropping](https://github.com/fizzday/imageCropSmart) and Grad-CAM visualization
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/whiter.jpg" class="center" alt = "gamma" width ="50" /> &nbsp;
+  
+## To install
+
+`pip install python-opencv` <br\>
+`pip install -U albumentations` <br\>
+`pip install git+https://github.com/fizzday/imageCropSmart` <br\>
+  
+## Credits
+ 
+[SmartCrop](https://github.com/fizzday/imageCropSmart) <br\>
+[Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) <br\>
+[DCL](https://github.com/JDAI-CV/DCL) <br\>
+[SimCLR](https://github.com/ssumin6/SimCLR)<br\>
