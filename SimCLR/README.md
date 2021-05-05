@@ -20,13 +20,13 @@
   
 ## To install
 
-`pip install python-opencv` <br\>
-`pip install -U albumentations` <br\>
-`pip install git+https://github.com/fizzday/imageCropSmart` <br\>
+`pip install python-opencv` <br/>
+`pip install -U albumentations` <br/>
+`pip install git+https://github.com/fizzday/imageCropSmart` <br/>
   
 ## Credits
  
-[SmartCrop](https://github.com/fizzday/imageCropSmart) <br\>
-[Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) <br\>
-[DCL](https://github.com/JDAI-CV/DCL) <br\>
-[SimCLR](https://github.com/ssumin6/SimCLR)<br\>
+[SmartCrop](https://github.com/fizzday/imageCropSmart) <br/>
+[Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) <br/>
+[DCL](https://github.com/JDAI-CV/DCL) <br/>
+[SimCLR](https://github.com/ssumin6/SimCLR)<br/>
