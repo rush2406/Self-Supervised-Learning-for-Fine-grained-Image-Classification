@@ -20,6 +20,7 @@ For the pretext task training, we've used the extra images (unlabelled). For the
 
 ## General dependencies
 
+Add how to install.......
 - python >= 3.6
 - torch
 - torchvision
@@ -32,3 +33,11 @@ For the pretext task training, we've used the extra images (unlabelled). For the
 ## How to run
 
 We've included the code in the form of Jupyter notebooks to make it easy to visualize and run each cell.
+
+## Credits
+
+ [SRGAN](https://github.com/Lornatang/SRGAN-PyTorch) <br/>
+ [Grad-CAM]( https://github.com/yaleCat/Grad-CAM-pytorch) <br/>
+ [SimCLR](https://github.com/ssumin6/SimCLR) <br/>
+ [Jigsaw pretext](https://github.com/aniket03/self_supervised_bird_classification) <br/>
+ [PMG](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training)
