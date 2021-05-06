@@ -12,7 +12,7 @@ In this method, we tried to use Jigsaw solving as a pretext task as explained in
 
 ## To run
 
-Download the extraimages and train images from [here](https://www.kaggle.com/c/cassava-disease/data)
+Download the extraimages and train images from [here](https://www.kaggle.com/c/cassava-disease/data) <br/>
 Then run the cells of the jupyter notebook 
 
 ## Credit
