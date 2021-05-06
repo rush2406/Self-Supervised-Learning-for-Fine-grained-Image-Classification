@@ -22,7 +22,11 @@
 
 ## Steps to run Demo_test.ipynb
 
+Replace model name from the pretrained models folder <br/>
+```ckpt = torch.load('fullmodel_dcl.ckpt')``` <br/>
 
+Ensure image is placed in path ```test/unknown``` <br/>
+```img = cv2.imread('test/unknown/train-cgm-490.jpg', 1)```
 
 ## To install
 
