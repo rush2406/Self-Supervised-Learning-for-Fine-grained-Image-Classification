@@ -10,6 +10,11 @@ In this method, we tried to use Jigsaw solving as a pretext task as explained in
 - train_test_split.txt - contains split for train and validation <br/>
 - Jigsaw_pretext.ipynb - contains code for using Jigsaw as pretext task and downstream classification <br/>
 
+## To run
+
+Download the extraimages and train images from [here](https://www.kaggle.com/c/cassava-disease/data)
+Then run the cells of the jupyter notebook 
+
 ## Credit
 
 [Jigsaw as pretext task](https://github.com/aniket03/self_supervised_bird_classification/tree/500feb0d6f3cc95352ad94bd665499cfba0538b5)
