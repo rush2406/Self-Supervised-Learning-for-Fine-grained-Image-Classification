@@ -20,6 +20,12 @@
 - Pretrained models folder: Contains saved models for each of the above augmentations
 - Demo_test.ipynb: Demo code for SimCLR
 
+## To run
+
+Download extraimages from [here](https://www.kaggle.com/c/cassava-disease/data?select=extraimages.zip) and train images from [here](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/20020076_mbzuai_ac_ae/EbYi3fiug3FAjjjT7UcLfJgBdvnnO6b_8RE4HzZbUJTscQ?e=rfmfym) (named as train_combined) <br/>
+
+Then run the cells of the jupyter notebook
+
 ## Steps to run Demo_test.ipynb
 
 Replace model name from the pretrained models folder <br/>
