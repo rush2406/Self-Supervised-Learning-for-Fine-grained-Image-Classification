@@ -5,10 +5,10 @@ In this method, we tried to use Jigsaw solving as a pretext task as explained in
 
 ## Files
 
-images.txt - contains the image file names <br/>
-image_class_labels.txt - contains image to class mapping <br/>
-train_test_split.txt - contains split for train and validation <br/>
-Jigsaw_pretext.ipynb - contains code for using Jigsaw as pretext task and downstream classification <br/>
+- images.txt - contains the image file names <br/>
+- image_class_labels.txt - contains image to class mapping <br/>
+- train_test_split.txt - contains split for train and validation <br/>
+- Jigsaw_pretext.ipynb - contains code for using Jigsaw as pretext task and downstream classification <br/>
 
 ## Credit
 
