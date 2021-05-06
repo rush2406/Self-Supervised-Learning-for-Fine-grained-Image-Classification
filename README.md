@@ -7,7 +7,7 @@ As part of our project we have worked on using self supervised learning for fine
 
 The features learnt during the pretext task are used for classification. The code is separated into these 3 folders.
 
-Our Baseline is a supervised fine grained classification model [Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches](https://arxiv.org/abs/2003.03836). The baseline achieved an accuracy of 88% on the dataset.
+Our Baseline is a supervised fine grained classification model [Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches](https://arxiv.org/abs/2003.03836).
 
 ## Dataset
 
@@ -19,16 +19,16 @@ The dataset can be downloaded from [here](https://www.kaggle.com/c/cassava-disea
 For the pretext task training, we've used the extra images (unlabelled). For the downstream task training, we've used the train images (labelled).
 
 ## General dependencies
-
-Add how to install.......
-- python >= 3.6
-- torch
-- torchvision
-- PIL
-- Opencv
-- numpy
-- scikit-learn
-- scipy
+```
+python >= 3.6
+torch
+torchvision
+PIL
+Opencv
+numpy
+scikit-learn
+scipy
+```
 
 ## How to run
 
