@@ -1,9 +1,9 @@
 # Self Supervised Learning for Fine grained Classification
 
 As part of our project we have worked on using self supervised learning for fine grained classification of cassava leaves diseases. We've explored 3 different methods for applying self supervised learning - 
-- SRGAN
-- Jigsaw as pretext task
-- SimCLR
+- [SRGAN](https://github.com/rush2406/Self-Supervised-Learning-for-Fine-grained-Image-Classification/tree/master/SRGAN)
+- [Jigsaw as pretext task](https://github.com/rush2406/Self-Supervised-Learning-for-Fine-grained-Image-Classification/tree/master/Jigsaw_as_Pretext_task)
+- [SimCLR](https://github.com/rush2406/Self-Supervised-Learning-for-Fine-grained-Image-Classification/tree/master/SimCLR)
 
 The features learnt during the pretext task are fine tuned for downstream classification. The code is separated into these 3 folders.
 
