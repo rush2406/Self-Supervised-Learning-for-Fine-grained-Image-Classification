@@ -15,7 +15,7 @@
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/random_jigsaw.jpg" class="center" alt = "gamma" height="65" width ="50" /> &nbsp;
 - SimCLR_DCL_Jigsaw.ipynb: Contains modifications related to using [DCL](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf) based jigsaw shufflling <br/> augmentation and Grad-CAM visualization <br/>
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/dcl_jigsaw.jpg" class="center" alt = "gamma" width ="50" /> &nbsp;
-- SimCLR_Cropped_regions.ipynb: Contains modifications related to localizing fine grained region [Smartcropping](https://github.com/fizzday/imageCropSmart) and Grad-CAM visualization <br/>
+- SimCLR_Cropped_regions.ipynb: Contains modifications related to localizing fine grained region ([Smartcropping](https://github.com/fizzday/imageCropSmart)) and Grad-CAM visualization <br/>
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/whiter.jpg" class="center" alt = "gamma" width ="50" /> &nbsp;
 - Pretrained models folder: Contains saved models for each of the above augmentations
 - Demo_test.ipynb: Demo code for SimCLR
