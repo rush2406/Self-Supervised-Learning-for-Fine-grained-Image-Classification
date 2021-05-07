@@ -5,7 +5,7 @@ As part of our project we have worked on using self supervised learning for fine
 - Jigsaw as pretext task
 - SimCLR
 
-The features learnt during the pretext task are used for classification. The code is separated into these 3 folders.
+The features learnt during the pretext task are fine tuned for downstream classification. The code is separated into these 3 folders.
 
 Our Baseline is a supervised fine grained classification model [Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches](https://arxiv.org/abs/2003.03836).
 
