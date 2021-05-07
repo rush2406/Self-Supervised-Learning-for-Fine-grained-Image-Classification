@@ -24,7 +24,7 @@ Then run the cells of the jupyter notebook
 - SRGAN_discriminator.ipynb - contains code for using discriminator to perform downstream classification with different modifications such as changing input image sizes, different depths of ResNet backbone and added dropout. Code for visualizing Grad-CAM is also provided.
 - SRGAN_generator.ipynb - contains code for using generator to perform downstream classification with different modifications such as changing input image sizes, different depths of ResNet backbone and added dropout.  Code for visualizing Grad-CAM is also provided.
 
-## Credit
+## Credits
 
 [SRGAN](https://github.com/Lornatang/SRGAN-PyTorch) <br/>
 [Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch)
