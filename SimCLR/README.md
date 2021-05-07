@@ -43,6 +43,6 @@ Ensure image is placed in path ```test/unknown``` <br/>
 ## Credits
  
 [SmartCrop](https://github.com/fizzday/imageCropSmart) <br/>
-[Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) <br/>
-[DCL](https://github.com/JDAI-CV/DCL) <br/>
-[SimCLR](https://github.com/ssumin6/SimCLR)<br/>
+[Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) - The base code for Grad-CAM has been obtained from here<br/>
+[DCL](https://github.com/JDAI-CV/DCL) - Modifications for DCL based Jigsaw have been derived from here <br/>
+[SimCLR](https://github.com/ssumin6/SimCLR) - The base code for SimCLR has been obtained from here <br/>
