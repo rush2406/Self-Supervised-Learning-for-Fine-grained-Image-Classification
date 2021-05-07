@@ -26,5 +26,5 @@ Then run the cells of the jupyter notebook
 
 ## Credits
 
-[SRGAN](https://github.com/Lornatang/SRGAN-PyTorch) - The base code for superresolution has been obtained from here. Downstream task and other modifications have been performed on top of this code. <br/>
+[SRGAN](https://github.com/Lornatang/SRGAN-PyTorch) - The base code for superresolution has been obtained from here. Downstream task and other modifications have been performed on top of this code <br/>
 [Grad-CAM](https://github.com/yaleCat/Grad-CAM-pytorch) - The base code for Grad-CAM has been derived from here
