@@ -17,4 +17,4 @@ Then run the cells of the jupyter notebook
 
 ## Credit
 
-[Jigsaw as pretext task](https://github.com/aniket03/self_supervised_bird_classification/tree/500feb0d6f3cc95352ad94bd665499cfba0538b5)
+[Jigsaw as pretext task](https://github.com/aniket03/self_supervised_bird_classification/tree/500feb0d6f3cc95352ad94bd665499cfba0538b5) - The base code for Jigsaw solving as pretext task has been obtained from here
