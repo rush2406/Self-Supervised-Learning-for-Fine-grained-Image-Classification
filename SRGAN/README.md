@@ -1,6 +1,8 @@
 # Self Supervised Learning using SRGAN
 
-(add 2 lines about SRGAN)
+[SRGAN](https://arxiv.org/abs/1609.04802) is a super-resolution generative adversarial network that creates high resolution images. The network downscales the images by a factor of four using a bicubic kernel and regenerates the images at two, four, and eight times the resolution. <br/>
+
+We've experimented to understand the potential of the generator and discriminator of the model as a feature extractor using superresolution as pretext task. The features learnt to used fine tuned for downstream classification task.
 
 ## Instructions to run/ Dependencies
 
