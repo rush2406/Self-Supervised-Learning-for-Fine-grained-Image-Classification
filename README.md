@@ -32,7 +32,7 @@ scipy
 
 ## How to run
 
-We've included the code in the form of Jupyter notebooks to make it easy to visualize and run each cell.
+We've included the code in the form of Jupyter notebooks to make it easy to visualize and run each cell. Further instructions have been provided in the README files of each folder.
 
 ## Credits
 
