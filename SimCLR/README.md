@@ -18,7 +18,7 @@
 - SimCLR_Cropped_regions.ipynb: Contains modifications related to localizing fine grained region ([Smartcropping](https://github.com/fizzday/imageCropSmart)) and Grad-CAM visualization <br/>
   <img src = "../images/train-cgm-651.jpg" class="center" alt = "cbb" width ="50" /> &nbsp; <img src = "../images/whiter.jpg" class="center" alt = "gamma" width ="50" /> &nbsp;
 - Pretrained models folder: Contains saved models for each of the above augmentations
-- Demo_test.ipynb: Demo code for SimCLR
+- Demo_test.ipynb: Demo code for SimCLR, predicts class for input image
 
 ## To install
 
