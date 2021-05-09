@@ -12,7 +12,7 @@ Our Baseline is a supervised fine grained classification model [Fine-Grained Vis
 ## Dataset
 
 We have used the cassava leaves fine grained diseases dataset from Kaggle. The dataset has ~12K unlabelled images (extraimages.zip) and ~6K labelled images (train.zip).
-The dataset can be downloaded from [here](https://www.kaggle.com/c/cassava-disease/data). It has 5 disease classes as shown in the following order - cbb,cbsd,cgm,cmd,healthy
+The dataset can be downloaded from [here](https://www.kaggle.com/c/cassava-disease/data) and [here](https://www.kaggle.com/c/cassava-leaf-disease-classification/data?select=train_images). It has 5 disease classes as shown in the following order - cbb,cbsd,cgm,cmd,healthy
 
 <img src = "images/cbb.jpg" alt = "cbb" width ="100" /> &nbsp; <img src = "images/cbsd.jpg" alt = "cbsd" width ="100" /> &nbsp; <img src = "images/cgm.jpg" alt = "cgm" width ="100" /> &nbsp; <img src = "images/cmd.jpg" alt = "cmd" width ="100" /> &nbsp; <img src = "images/healthy.jpg" alt="healthy" height = "133" width ="100" />
 
