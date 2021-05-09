@@ -28,7 +28,7 @@
 
 ## To run
 
-Download extraimages from [here](https://www.kaggle.com/c/cassava-disease/data?select=extraimages.zip) and train images from [here](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/20020076_mbzuai_ac_ae/EbYi3fiug3FAjjjT7UcLfJgBdvnnO6b_8RE4HzZbUJTscQ?e=rfmfym) (named as train_combined) <br/>
+Download extraimages from [here](https://www.kaggle.com/c/cassava-disease/data?select=extraimages.zip) and train images from [here](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/20020076_mbzuai_ac_ae/EbYi3fiug3FAjjjT7UcLfJgBdvnnO6b_8RE4HzZbUJTscQ?e=rfmfym) <br/>
 
 Then run the cells of the jupyter notebook
 
@@ -38,7 +38,7 @@ Replace model name from the pretrained models folder <br/>
 ```ckpt = torch.load('fullmodel_dcl.ckpt')``` <br/>
 
 Ensure image is placed in path ```test/unknown``` <br/>
-```img = cv2.imread('test/unknown/train-cgm-490.jpg', 1)```
+```img = cv2.imread('test/unknown/train-cgm-651.jpg', 1)```
   
 ## Credits
  
