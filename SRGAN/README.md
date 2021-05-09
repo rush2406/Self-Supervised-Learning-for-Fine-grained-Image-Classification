@@ -23,7 +23,7 @@ Then run the cells of the jupyter notebook
 - train_test_split.txt - contains split for train and validation
 - SRGAN_discriminator.ipynb - contains code for using discriminator to perform downstream classification with different modifications such as changing input image sizes, different depths of ResNet backbone and added dropout. Code for visualizing Grad-CAM is also provided.
 - SRGAN_generator.ipynb - contains code for using generator to perform downstream classification with different modifications such as changing input image sizes, different depths of ResNet backbone and added dropout.  Code for visualizing Grad-CAM is also provided.
-
+- Demo folder: Contains demo code for SRGAN, predicts class for input image, included with sample input and output
 ## Credits
 
 [SRGAN](https://github.com/Lornatang/SRGAN-PyTorch) - The base code for superresolution has been obtained from here. Downstream task and other modifications have been performed on top of this code <br/>
