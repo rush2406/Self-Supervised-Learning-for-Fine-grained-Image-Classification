@@ -5,7 +5,7 @@ As part of our project we have worked on using self supervised learning for fine
 - [Jigsaw as pretext task](https://github.com/rush2406/Self-Supervised-Learning-for-Fine-grained-Image-Classification/tree/master/Jigsaw_as_Pretext_task)
 - [SimCLR](https://github.com/rush2406/Self-Supervised-Learning-for-Fine-grained-Image-Classification/tree/master/SimCLR)
 
-The features learnt during the pretext task are fine tuned for downstream classification. The code is separated into these 3 folders.
+The features learnt during the pretext task are fine tuned for downstream classification. The code (implemented in Pytorch) is separated into these 3 folders.
 
 Our Baseline is a supervised fine grained classification model [Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches](https://arxiv.org/abs/2003.03836).
 
@@ -22,12 +22,12 @@ For the pretext task training, we've used the extra images (unlabelled). For the
 ```
 python >= 3.6
 torch
-torchvision
 PIL
-Opencv
-numpy
-scikit-learn
-scipy
+torchvision : conda install -c pytorch torchvision 
+Opencv : pip install python-opencv
+numpy : pip install numpy
+scikit-learn : pip install -U numpy scipy scikit-learn
+scipy : pip install scipy
 ```
 
 ## How to run
